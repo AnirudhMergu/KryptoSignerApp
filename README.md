@@ -1,4 +1,4 @@
-# KryptoSignerApp
+# KryptoSigner - The Fastest, easiest and the elegant way to get your documents signed.
 
 KryptoSigner is a windows application designed for digital signing PDF and Microsoft Office Documents.
 
